@@ -74,7 +74,8 @@ Student-Management-System-EDA/
 │   ├── Project_Report.md
 │   ├── Methodology.md
 │   ├── Business_Implications.md
-│   └── Future_Work.md
+│   ├── Future_Work.md
+│   └── Requirements.md
 │
 ├── presentation/
 │   └── Student Management EDA Report PPT.pptx
