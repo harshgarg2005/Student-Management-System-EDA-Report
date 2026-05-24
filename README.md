@@ -69,6 +69,12 @@ Student-Management-System-EDA/
 │   ├── DFD Level 1
 │   ├── ER Diagram
 │   └── Use Case Diagram
+|
+├── Document/
+|   ├── Project_Report.md
+|   ├── Methodology.md
+|   ├── Business_Implications.md
+|   ├── Future_Work.md
 │
 ├── presentation/
 │   └── Student Management EDA Report PPT.pptx
