@@ -80,4 +80,5 @@ Student-Management-System-EDA/
 ├── presentation/
 │   └── Student Management EDA Report PPT.pptx
 │
-└── README.md
+└──README.md
+└──LICENSE
